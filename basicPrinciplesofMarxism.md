@@ -633,15 +633,4 @@ tags:
       2. 加剧了发展中国家资源短缺和环境恶化
       
       3. 一定程度上增加经济风险
-         <br><br><br><br><br>
-         
-         <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
-         
-         <div id="vcomments"></div>
-         <script>
-         new Valine({
-         el: '#vcomments',
-         appId: 'pYVxUdjGaaE4WkIo9yulsMpw-gzGzoHsz',
-         appKey: 'k5IXm5eqTCqoajlqYcc8F39c'
-         })
-         </script>
+   
