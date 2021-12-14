@@ -1,0 +1,2 @@
+# basicPrinciplesofMarxism
+某信息类理工学校卷院学生期末考前的最后挣扎
